@@ -1,0 +1,8 @@
+{
+  "name": "SustentaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "3627c9c8"
+}
